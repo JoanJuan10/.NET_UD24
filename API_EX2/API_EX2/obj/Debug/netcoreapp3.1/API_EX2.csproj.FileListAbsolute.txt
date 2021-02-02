@@ -149,3 +149,8 @@ C:\Users\Angel\source\repos\JoanJuan10\.NET_UD24\API_EX2\API_EX2\obj\Debug\netco
 C:\Users\Angel\source\repos\JoanJuan10\.NET_UD24\API_EX2\API_EX2\obj\Debug\netcoreapp3.1\API_EX2.dll
 C:\Users\Angel\source\repos\JoanJuan10\.NET_UD24\API_EX2\API_EX2\obj\Debug\netcoreapp3.1\API_EX2.pdb
 C:\Users\Angel\source\repos\JoanJuan10\.NET_UD24\API_EX2\API_EX2\obj\Debug\netcoreapp3.1\API_EX2.genruntimeconfig.cache
+C:\Users\Angel\source\repos\JoanJuan10\.NET_UD24\API_EX2\API_EX2\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Angel\source\repos\JoanJuan10\.NET_UD24\API_EX2\API_EX2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Angel\source\repos\JoanJuan10\.NET_UD24\API_EX2\API_EX2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Angel\source\repos\JoanJuan10\.NET_UD24\API_EX2\API_EX2\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Angel\source\repos\JoanJuan10\.NET_UD24\API_EX2\API_EX2\obj\Debug\netcoreapp3.1\API_EX2.MvcApplicationPartsAssemblyInfo.cs
