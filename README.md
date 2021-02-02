@@ -42,3 +42,47 @@ PUT - https://localhost:44374/api/Videos/{id}
 
 DELETE - https://localhost:44374/api/Videos/{id}
 ![Imagen](https://i.imgur.com/wSzhH0Y.png)
+
+## API PROYECTOS Y CIENTIFICOS (EJERCICIO 3)
+
+### PROYECTOS
+
+GET - https://localhost:44389/api/Proyectos
+![Imagen](https://i.imgur.com/hHwxHzr.png)
+
+POST - https://localhost:44389/api/Proyectos
+![Imagen](https://i.imgur.com/L9ly1v4.png)
+
+PUT - https://localhost:44389/api/Proyectos/{id}
+![Imagen](https://i.imgur.com/fCpZFzd.png)
+
+DELETE - https://localhost:44389/api/Proyectos/{id}
+![Imagen](https://i.imgur.com/pACaMYV.png)
+
+### CIENTIFICOS
+
+GET - https://localhost:44389/api/Cientificos
+![Imagen](https://i.imgur.com/sMmaGse.png)
+
+POST - https://localhost:44389/api/Cientificos
+![Imagen](https://i.imgur.com/TIyCoEq.png)
+
+PUT - https://localhost:44389/api/Cientificos/{dni}
+![Imagen](https://i.imgur.com/raB6Gc5.png)
+
+DELETE - https://localhost:44389/api/Cientificos/{dni}
+![Imagen](https://i.imgur.com/gjnqXSP.png)
+
+### ASIGNADO
+
+GET - https://localhost:44389/api/Asignados
+![Imagen](https://i.imgur.com/QMfEfTm.png)
+
+POST - https://localhost:44389/api/Asignados
+![Imagen](https://i.imgur.com/7DO7UQb.png)
+
+PUT - https://localhost:44389/api/Asignados/{id}
+![Imagen](https://i.imgur.com/9fd6z9B.png)
+
+DELETE - https://localhost:44389/api/Asignados/{id}
+![Imagen](https://i.imgur.com/j6GnIYK.png)
